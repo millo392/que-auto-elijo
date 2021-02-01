@@ -1,0 +1,57 @@
+Cronos:
+aceite:3248.17
+filtro de aceite:833.17
+filtro de aire:773.71
+filtro de nafta:600
+pastillas de freno:857.13
+bujias y cables:4132
+cubiertasx2: 24394 (bridgestone)
+filtro antipolen: 685.47
+correa del alternador: 1477
+
+Etios:
+aceite:2699
+filtro de aceite:461.53
+filtro de aire:600
+filtro de nafta:655.03
+pastillas de freno:2057
+bujias y cables: 3921
+cubiertasx2: 21060
+filtro antipolen: 266.25
+correa de alternador: 2052
+
+Joy:
+aceite:3999
+filtro de aceite: 220
+filtro de aire: 765
+filtro de nafta: 690
+pastillas de freno: 2990
+bujias y cables: 4250
+cubiertasx2: 21060
+filtro antipolen: 1013.59
+correa dentada:2650
+correa del alternador: 694
+
+Voyage:
+aceite: 2800
+filtro de aceite: 279
+filtro de aire: 1395
+filtro de nafta: 712
+pastillas de freno: 2590
+bujias y cables: 3450
+cubiertasx2:17100
+filtro antipolen: 740.3
+correa dentada:3749
+correa del ventilador: 1648
+
+Logan:
+aceite: 1595
+filtro de aceite: 320
+filtro de aire: 350
+filtro de nafta: 229.54
+pastillas de freno: 2840
+bujias y cables: 2500
+cubiertasx2: 15170
+filtro antipolen: 319
+correa dentada: 3300
+correa del ventilador: 1590

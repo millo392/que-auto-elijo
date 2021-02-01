@@ -1,0 +1,241 @@
+body{
+    background-color: black;
+}
+header{
+    background-color:#B6B6B3;
+    
+}
+header h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 1.8em;
+}
+#logo-taxi{
+    width: 33%;
+    
+}
+header h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+    color: #0A0A2A;
+    
+}
+#cabezera{
+    width: 33%;
+    display: inline-block;
+}
+#logo-remis{
+    width: 33%;
+    display: inline-block;
+}
+
+#cincomodelos{
+    font-family: cursive;
+    font-size: 1.2em;
+    color: #000009;
+    background-color: #909090;
+    
+}
+#lista{
+    background-color: #908075;
+}
+
+ #lista-autos a{
+    
+    text-decoration: none;
+    color:rgb(255, 255, 204); 
+ 
+    
+}
+#lista-autos li {
+    display: inline-block;
+    margin: 2.1em;
+    border: 0.125em solid black;
+    padding: 0.3em;
+    font-size: 1.3em;
+    background-color: rgb(102, 0, 51);
+    
+
+}
+#lista-autos a:hover{
+    font-size: 1.5em;
+    color: blue;
+}
+#contenedor{
+    width: 100%;
+    height: 30%;
+    border: 2px solid black;
+}
+#comparando{
+    background-color: #909085;
+}
+.comparacion{
+    font-family: fantasy;
+    font-size: 1.3em;
+    color: #0D081F;
+    margin-left:20em;
+}
+#service{
+    border: 3px solid #502C50;
+    font-size: 3.1em;
+}
+#comparar p{
+    display: inline;
+    border: 0.125em solid black;
+    margin: 2.8em;
+    
+    padding: 10px 10px 0 10px;
+    font-size: 1.3em;
+    font-family: fantasy;
+    background-color: #ffffcc;
+    margin-left: 5.6em;
+}
+#comparar p:hover{
+    cursor: pointer;
+    font-size: 1.6em;
+    color: chocolate;
+}
+#comparando{
+    border: 5px dashed rgba(14, 1, 26, 0.602);
+}
+footer{
+    background-color: #909090;
+    
+}
+footer p{
+    font-size: 1em;
+
+}
+footer img{
+    width: 3.12em;
+    height: 3.12em;
+    margin: 1.87em;
+    padding: 0.31em 0.31em 0 0.31em;
+}
+#cronos{
+    background: url('imagenes/cronos.jpg') no-repeat center top ;
+    background-size: 100%;
+}
+.tecnica{
+    border: 0.31em solid #2C5031;
+    width: 50%;
+}
+.tecnica td{
+    color: #ffffcc;
+    font-size: 1.25em;
+
+}
+.tecnica1{
+    border: 0.31em solid #2C5031;
+    width: 50%;
+}
+.tecnica1 td{
+    color: black;
+    font-size: 1.25em;
+
+}
+.caracteristicas{
+    font-size: 1.87em;
+    width: 40%;
+    color: grey;
+    background-color: lavender;
+}
+.precio{
+    font-size: 3.75em;
+    color: #660033;
+    margin:auto;
+    width: 15%;
+    border: 5px dotted black;
+    background-color: blanchedalmond;
+}
+.volver{
+    position: absolute;
+    margin-top: 11.5em ;
+    color: cornsilk;
+    width: 10%;
+    border: 3px solid black;
+    background-color: #333300;
+    font-size: 1.56em;
+}
+#etios{
+    background: url('imagenes/etios.jpg') no-repeat center top ;
+    background-size: 100%;
+}
+
+#joy{
+    background: url('imagenes/joy.jpg') no-repeat center top ;
+    background-size: 100%;
+}
+
+#voyage{
+    background: url('imagenes/voyage.jpg') no-repeat center top ;
+    background-size: 100%;
+}
+#logan{
+    background: url('imagenes/logan.jpg') no-repeat center top ;
+    background-size: 100%;
+}
+.salida-costos{
+    background-color: black;
+    color: cornsilk;
+    margin: auto;
+    font-size: 2em;
+    width: 90%;
+}
+ .lista-salida {
+    
+    background-color: #001a00;
+    color: #ffffcc;
+    margin: auto;
+    font-size: 1.2em;
+    width: 85%;
+    list-style: none;
+}
+@media screen and (max-width:600px){
+   #comparar p{
+       display: block;
+       margin: 3.5em;
+       background-color: blueviole;
+   }
+   .comparacion{
+       margin-left: 0;
+   }
+   footer img{
+       display: inline-block;
+       width: 1em;
+       height: 1em;
+       margin: 0.2em;
+   }
+   #cronos{
+    background: url('imagenes/cronos.jpg') no-repeat center top ;
+    background-size: 640px 900px;
+    
+}
+#etios{
+    background: url('imagenes/etios.jpg') no-repeat center top ;
+    background-size: 640px 900px;
+}
+#joy{
+    background: url('imagenes/joy.jpg') no-repeat center top ;
+    background-size: 640px 900px;
+}
+#voyage{
+    background: url('imagenes/voyage.jpg') no-repeat center top ;
+    background-size: 640px 900px;
+}
+#logan{
+    background: url('imagenes/logan.jpg') no-repeat center top ;
+    background-size: 640px 900px;
+}
+.tecnica{
+    width: 75%;
+}
+.tecnica1{
+    width: 75%;
+}
+.volver{
+    margin-top: 10em;
+    width: 25%;
+}
+}
